@@ -1,6 +1,6 @@
 # Useful Tools for Students
 
-A collaborative guide by [Emmanuel ,Biniaum,David & Cecile].
+A collaborative guide by [Emmanuel ,Biniaum,David,Cecile and Gladys].
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -8,6 +8,7 @@ A collaborative guide by [Emmanuel ,Biniaum,David & Cecile].
 - [Notion](#notion)
 - [Canva](#canva)
 - [ChatGPT](#ChatGPT)
+  
 
 ## Introduction
 This guide covers tools that every student should know about.
@@ -66,11 +67,11 @@ Notion is a powerful, beginner-friendly tool that keeps your notes, tasks, and p
 
 ## Canva
 <!-- Cecile will write this section --> Cecile
+<!-- Biniam will write this section --> Binum
 
 ## Google
-<!-- Gladys will write this section --> google
+<!-- Gladys will write this section --> Gladys
 
-CECILE.
 ## Canva
 
 **Canva** is a free-to-use online graphic design tool used to create social media graphics, presentations, posters, documents, and other visual content. It features a user-friendly drag-and-drop interface and thousands of customizable templates.
