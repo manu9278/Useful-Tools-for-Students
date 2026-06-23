@@ -7,7 +7,7 @@ A collaborative guide by [Emmanuel ,Biniaum,David & Cecile].
 - [VS Code](#vs-code)
 - [Notion](#notion)
 - [Canva](#canva)
-- [ChatGPT]_(#ChatGPT)
+- [ChatGPT](#ChatGPT)
 
 ## Introduction
 This guide covers tools that every student should know about.
