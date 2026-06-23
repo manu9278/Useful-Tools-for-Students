@@ -8,6 +8,7 @@ A collaborative guide by [Emmanuel ,Biniaum,David,Cecile and Gladys].
 - [Notion](#notion)
 - [Canva](#canva)
 - [ChatGPT](#ChatGPT)
+- [Google]
 
 ## Introduction
 This guide covers tools that every student should know about.
