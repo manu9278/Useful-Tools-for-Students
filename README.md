@@ -102,7 +102,7 @@ Using ChatGPT is easy:
 
 ChatGPT can be accessed through:
 
-- The Official website:[chatgpt.com]
+- The Official website:http:chatgpt.com
 - Mobile apps on Android or iOS stores labeled "[ChatGPT]" by OpenAI.
 
 Make sure to use the official platform.
