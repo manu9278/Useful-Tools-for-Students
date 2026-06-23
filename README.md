@@ -38,10 +38,13 @@ Each section is written by a different team member.
 VS Code is one of the most popular code editors because it is fast, lightweight, and customizable. It helps developers write, test, and manage code efficiently.
 
 ## Notion
-<!-- [Binium] will write this section --> Binum
+<!-- Binium will write this section --> Binum
 
 ## Canva
-<!-- David will write this section --> David
+<!-- Cecile will write this section --> Cecile
+
+## Google
+<!-- Gladys will write this section --> google
 
 CECILE.
 ## Canva
