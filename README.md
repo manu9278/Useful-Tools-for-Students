@@ -38,7 +38,31 @@ Each section is written by a different team member.
 VS Code is one of the most popular code editors because it is fast, lightweight, and customizable. It helps developers write, test, and manage code efficiently.
 
 ## Notion
-<!-- Binium will write this section --> Binum
+
+**Notion** is a  all-in-one productivity app made by Notion Labs.
+It is one of the most popular tools for note-taking, project management, and documentation.
+
+### Why Students Should Use Notion
+
+- It works on Windows, Mac, Linux, iOS, and Android.
+- It supports notes, databases, task board, calendars, and wikis — all in one place.
+- It has a built-in AI assistant to help you write, summarize, and organize content.
+- Thousands of community templates are available for studying, planning, and tracking.
+
+### How to Get Started
+
+1. Go to [notion.com](https://www.notion.com/) and create a free account.
+2. Create your first page by clicking the **+** button in the sidebar.
+3. Give your page a title and start typing your notes.
+
+### Useful Links
+
+- [Notion Documentation](https://www.notion.com/help)
+- [Notion Pricing](https://www.notion.com/pricing)
+
+### Conclusion
+
+Notion is a powerful, beginner-friendly tool that keeps your notes, tasks, and projects all in one place — and the free plan is enough to get started.
 
 ## Canva
 <!-- Cecile will write this section --> Cecile
