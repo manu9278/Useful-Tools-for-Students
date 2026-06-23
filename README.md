@@ -42,4 +42,23 @@ VS Code is one of the most popular code editors because it is fast, lightweight,
 ## Canva
 <!-- David will write this section --> David
 
-<!-- Cecile will write this section --> Cecile 
+## Canva
+
+**Canva** is a free-to-use online graphic design tool used to create social media graphics, presentations, posters, documents, and other visual content. It features a user-friendly drag-and-drop interface and thousands of customizable templates.
+
+### Why Students Should Use It
+- It offers a vast library of pre-made templates for presentations, resumes, and infographics.
+- It allows real-time collaboration with teammates on group projects.
+- It features an intuitive, beginner-friendly interface that doesn't require professional design skills.
+- Students can access premium features for free through the Canva for Education program.
+
+### How to Get Started
+1. Sign up or log in at [canva.com](https://www.canva.com/).
+2. Choose a design type (like "Presentation" or "Poster") or start with a template.
+3. Use the drag-and-drop editor to add text, images, and elements, then download or share your work.
+
+### Useful Links
+- [Canva Help Center](https://www.canva.com/help/)
+- [Canva Design School Tutorials](https://www.canva.com/designschool/tutorials/)
+-
+
