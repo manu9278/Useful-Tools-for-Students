@@ -13,11 +13,11 @@ This guide covers tools that every student should know about.
 Each section is written by a different team member.
 
 ## VS Code
-<!-- [Emmanuel] will write this section --> Vs Code
+<!-- [Emmanuel] will write this section --> Emmanuel
 ## Notion
-<!-- [Binium] will write this section --> Notion
+<!-- [Binium] will write this section --> Binum
 
 ## Canva
-<!-- David will write this section -->Chat Gtp
+<!-- David will write this section --> David
 
-<!-- Cecile will write this section -->Canva
+<!-- Cecile will write this section --> Cecile 
