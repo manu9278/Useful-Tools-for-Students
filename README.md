@@ -41,7 +41,7 @@ VS Code is one of the most popular code editors because it is fast, lightweight,
 <!-- Biniam will write this section --> Binum
 
 ## Google
-<!-- Gladys will write this section --> google
+<!-- Gladys will write this section --> Gladys
 
 ## Canva
 
