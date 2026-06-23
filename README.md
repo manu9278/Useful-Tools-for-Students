@@ -42,6 +42,7 @@ VS Code is one of the most popular code editors because it is fast, lightweight,
 ## Canva
 <!-- David will write this section --> David
 
+CECILE
 ## Canva
 
 **Canva** is a free-to-use online graphic design tool used to create social media graphics, presentations, posters, documents, and other visual content. It features a user-friendly drag-and-drop interface and thousands of customizable templates.
