@@ -65,7 +65,7 @@ CECILE.
 
 ## ChatGPT 
 
-**ChatGPT** is an artificial intelligence chatbot developed by OpenAI. I is designed to understand human language and generate human-like response in text form.
+**ChatGPT** is an artificial intelligence chatbot developed by OpenAI. It is designed to understand human language and generate human-like response in text form.
 
 It can:
 
