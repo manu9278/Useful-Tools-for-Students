@@ -38,15 +38,11 @@ Each section is written by a different team member.
 VS Code is one of the most popular code editors because it is fast, lightweight, and customizable. It helps developers write, test, and manage code efficiently.
 
 ## Notion
-<!-- Binium will write this section --> Binum
-
-## Canva
-<!-- Cecile will write this section --> Cecile
+<!-- Biniam will write this section --> Binum
 
 ## Google
 <!-- Gladys will write this section --> google
 
-CECILE.
 ## Canva
 
 **Canva** is a free-to-use online graphic design tool used to create social media graphics, presentations, posters, documents, and other visual content. It features a user-friendly drag-and-drop interface and thousands of customizable templates.
