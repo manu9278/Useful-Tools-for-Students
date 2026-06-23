@@ -1,6 +1,6 @@
 # Useful Tools for Students
 
-A collaborative guide by [Emmanuel ,Biniaum,David & Cecile].
+A collaborative guide by [Emmanuel ,Biniaum,David,Cecile and Gladys].
 
 ## Table of Contents
 - [Introduction](#introduction)
