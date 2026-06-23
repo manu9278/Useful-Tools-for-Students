@@ -102,8 +102,8 @@ Using ChatGPT is easy:
 
 ChatGPT can be accessed through:
 
-- The Official website:chatgpt.com.
-- Mobile apps on Android or iOS stores labeled "ChatGPT" by OpenAI.
+- The Official website:[chatgpt.com]
+- Mobile apps on Android or iOS stores labeled "[ChatGPT]" by OpenAI.
 
 Make sure to use the official platform.
 
@@ -112,13 +112,16 @@ Make sure to use the official platform.
 1. 📖 Helps with learning and understanding concepts.
 2. ⏳ Saves time when doing research.
 3. ✍️ Improves writing and communications skills.
+4. 💡 Provide creative ideas and inspiration.
+5. 🧔 Acts like a personal tutor.
 
 ### Demerits
 
 1. ❗ Can sometimes give incorrect information.
 2. 🧠 May make students over-reliant on it instead of thinking.
 3. 📵 Requires internet access to use
-:![project preview](images/Chatgpt)
+4. ⚠ Not always updated with the latest information.
+5. 📚 Can be misused for cheating in schoolwork.
 
 ### Conclusion
 
