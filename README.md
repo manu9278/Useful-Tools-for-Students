@@ -293,28 +293,24 @@ It is one of the most popular tools for finding and summarizing peer-reviewed re
 - [Consensus Documentation](https://consensus.app/home/blog/)
 - [Consensus Home](https://consensus.app/)
 
-## Issue
-
-Many students and researchers face challenges in accessing reliable information quickly and efficiently . Traditional methods of searching for information can be time consuming., making it difficult to learn new concept, conduct research and remain productive.
-
 ## Gemini AI
 
 Gemini AI is an advanced artificial intelligence assistant developed by google, Gemini is a multi-modal AI system, meaning it can work with different types of information such as text, images, audio, and code. This enables it to give more accurate comprehensive assistance compared to traditional means of searching for information.
 
 ## Key features
 
-    Supports learning through explanation and tutoring assistance.
-    Assists with research by finding, analyzing, and summarizing information.
-    Improves productivity through content creation, planning and task support.
-    Understand and processes text, images and other forms of data.
-    Provides quick and interactive responses to users queries
+  1. Supports learning through explanation and tutoring assistance.
+  2. Assists with research by finding, analyzing, and summarizing information.
+  3. Improves productivity through content creation, planning and task support.
+  4. Understand and processes text, images and other forms of data.
+  5. Provides quick and interactive responses to users queries
 
 ## Benefits
 
-    Saves time when searching for information.
-    Enhances understanding of complex topics.
-    Supports academic and professional work.
-    Increases efficiency in daily tasks and decision making.
+1. Saves time when searching for information.
+2. Enhances understanding of complex topics.
+3. Supports academic and professional work.
+4. Increases efficiency in daily tasks and decision making.
 
 ## Conclusion
 
