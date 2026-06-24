@@ -68,8 +68,38 @@ Notion is a powerful, beginner-friendly tool that keeps your notes, tasks, and p
 
 
 ## Google
-<!-- Gladys will write this section --> Gladys
+Google is a technology company that provides internet-based services and applications designed to help people find information, communicate, create documents, and store files online. Its search engine indexes billions of web pages, allowing users to find reliable information within seconds.
 
+### Why is Google Useful for Students?
+
+Google helps students in many ways:
+
+-Fast Access to Information
+
+-Improves Research Skills
+
+-Supports Collaboration
+
+-Keeps Learning Organized
+
+-Enhances Communication
+### How to get started
+Step 1: Create a Google Account
+Open a web browser (such as Chrome, Edge, or Firefox).
+Go to www.google.com.
+Click Sign In in the top-right corner.
+Select Create Account.
+Enter your name, choose a username, and create a strong password.
+Verify your phone number or email address if prompted.
+Accept the terms and conditions to complete the registration.
+### Useful links
+
+Google Search	Find information, articles, images, videos, and research materials.
+Google Docs	Create and edit essays, assignments, and notes online.
+Google Drive	Store, organize, and access files from any device.
+Google Slides
+### Conclusion 
+Getting started with Google is the first step toward becoming a more organized, productive, and independent learner. By creating an account, exploring Google’s free tools, and practicing regularly, students can improve their research, collaboration, and time management skills, making learning more efficient and enjoyable.
 ## Canva
 
 **Canva** is a free-to-use online graphic design tool used to create social media graphics, presentations, posters, documents, and other visual content. It features a user-friendly drag-and-drop interface and thousands of customizable templates.
