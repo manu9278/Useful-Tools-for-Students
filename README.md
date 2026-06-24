@@ -217,3 +217,35 @@ Make sure to use the official platform.
 
 Its a powerful learning tool that can support students in education. But it should be used responsibly. It works best when students use it to learn and understand, not to replace their own thinking.
 
+# Perplexity AI
+
+## What is Perplexity AI?
+
+Perplexity AI is an AI-powered search and research tool that provides accurate answers to questions using information gathered from multiple sources. It helps users find reliable information quickly and efficiently.
+
+## Key Features
+
+- AI-powered search
+- Source citations for answers
+- Real-time information retrieval
+- Research assistance
+- Easy-to-use interface
+
+## Benefits
+
+- Saves time when researching
+- Provides answers with references
+- Helps users verify information
+- Supports learning and decision-making
+
+## Why Students Should Use Perplexity AI
+
+- Find information quickly
+- Access reliable sources
+- Support academic research
+- Improve learning efficiency
+
+## Conclusion
+
+Perplexity AI is a useful research assistant that helps users find trustworthy information and learn more effectively.
+
