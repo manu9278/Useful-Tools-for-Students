@@ -65,9 +65,7 @@ It is one of the most popular tools for note-taking, project management, and doc
 
 Notion is a powerful, beginner-friendly tool that keeps your notes, tasks, and projects all in one place — and the free plan is enough to get started.
 
-## Canva
-<!-- Cecile will write this section --> Cecile
-<!-- Biniam will write this section --> Binum
+
 
 ## Google
 <!-- Gladys will write this section --> Gladys
