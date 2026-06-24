@@ -270,6 +270,29 @@ Students should use Claude AI because it bridges the gap between raw research da
 ### Conclusion
 Claude AI is more than just a chat tool; it is a powerful academic asset. By integrating Claude into their study workflows, students can boost their productivity, dramatically improve their research efficiency, and sharpen their academic writing skills.y and reducing factual errors (hallucinations), making it a trustworthy study companion.
 
+## Consensus AI
+
+**Consensus AI** is a free AI-powered academic search engine made by Consensus NLP, Inc.
+It is one of the most popular tools for finding and summarizing peer-reviewed research papers.
+
+### Why Students Should Use Consensus AI
+
+- It works on any device through a web browser — no download required.
+- It searches millions of academic papers and extracts key findings instantly.
+- It has a built-in AI assistant to help you understand and summarize research.
+- It supports topics across science, medicine, psychology, economics, and more.
+
+### How to Get Started
+
+1. Go to [consensus.app](https://consensus.app/) and create a free account.
+2. Type a research question in the search bar (e.g., *Does exercise improve memory?*).
+3. Review the AI-generated summary and explore the cited papers.
+
+### Useful Links
+
+- [Consensus Documentation](https://consensus.app/home/blog/)
+- [Consensus Home](https://consensus.app/)
+
 
 
 
